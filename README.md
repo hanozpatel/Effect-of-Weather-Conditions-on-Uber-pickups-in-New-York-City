@@ -1,1 +1,3 @@
-# Travel is a part and parcel of the life of every human being. One may travel places for work, school, meetings or just to visit a place. There are various means of transportation to aid this travel like personal cars, trains, buses, flights or cab services. One such private cab service is Uber. In this project, the effects of weather on the number of Uber pickups in 5 boroughs of New York City throughout the period of January 2015 to May 2015 have been explored.
+•Examined 29,102 pickups for 5boroughs in NYC from Jan - May2015
+•Performed statistical analyses on Uber pickups against 4 weather conditions by sampling data based on peak traffic hours
+•Recorded trends to appropriately price Uber’s different products based on changing weather conditions
